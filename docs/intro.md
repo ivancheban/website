@@ -10,8 +10,6 @@ Let's discover **Docusaurus in less than 5 minutes**.
 
 Get started by **creating a new site**.
 
-![Docusaurus logo](/img/docusaurus.png)
-
 Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
 ## Generate a new site
