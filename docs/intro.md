@@ -8,6 +8,8 @@ Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
 
+docusarus or docusaures
+
 Get started by **creating a new site**.
 
 Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
@@ -22,7 +24,7 @@ npm init docusaurus@latest my-website classic
 
 ## Start your site
 
-Run the development server:
+Run the development server: 
 
 ```shell
 cd my-website
